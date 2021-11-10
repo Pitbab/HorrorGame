@@ -1,0 +1,6 @@
+library/
+logs/
+temp/
+obj/
+.vs/
+HorrorGame.sln
