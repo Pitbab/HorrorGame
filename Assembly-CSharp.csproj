@@ -60,55 +60,55 @@
      <Compile Include="Assets\Scripts\UI\PlayerUI.cs" />
      <Compile Include="Assets\Trap.cs" />
  <Reference Include="Unity.Timeline.Editor">
- <HintPath>F:/Conception/tp2/HorrorGame/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+ <HintPath>D:/HorrorGame/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Burst">
- <HintPath>F:/Conception/tp2/HorrorGame/Library/ScriptAssemblies/Unity.Burst.dll</HintPath>
+ <HintPath>D:/HorrorGame/Library/ScriptAssemblies/Unity.Burst.dll</HintPath>
  </Reference>
  <Reference Include="Unity.VSCode.Editor">
- <HintPath>F:/Conception/tp2/HorrorGame/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
+ <HintPath>D:/HorrorGame/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Burst.Editor">
- <HintPath>F:/Conception/tp2/HorrorGame/Library/ScriptAssemblies/Unity.Burst.Editor.dll</HintPath>
+ <HintPath>D:/HorrorGame/Library/ScriptAssemblies/Unity.Burst.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro.Editor">
- <HintPath>F:/Conception/tp2/HorrorGame/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+ <HintPath>D:/HorrorGame/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Animation.Rigging">
- <HintPath>F:/Conception/tp2/HorrorGame/Library/ScriptAssemblies/Unity.Animation.Rigging.dll</HintPath>
+ <HintPath>D:/HorrorGame/Library/ScriptAssemblies/Unity.Animation.Rigging.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.UI">
- <HintPath>F:/Conception/tp2/HorrorGame/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+ <HintPath>D:/HorrorGame/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Timeline">
- <HintPath>F:/Conception/tp2/HorrorGame/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
+ <HintPath>D:/HorrorGame/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
  </Reference>
  <Reference Include="Unity.CollabProxy.Editor">
- <HintPath>F:/Conception/tp2/HorrorGame/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+ <HintPath>D:/HorrorGame/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Rider.Editor">
- <HintPath>F:/Conception/tp2/HorrorGame/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
+ <HintPath>D:/HorrorGame/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Mathematics">
- <HintPath>F:/Conception/tp2/HorrorGame/Library/ScriptAssemblies/Unity.Mathematics.dll</HintPath>
+ <HintPath>D:/HorrorGame/Library/ScriptAssemblies/Unity.Mathematics.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Animation.Rigging.Editor">
- <HintPath>F:/Conception/tp2/HorrorGame/Library/ScriptAssemblies/Unity.Animation.Rigging.Editor.dll</HintPath>
+ <HintPath>D:/HorrorGame/Library/ScriptAssemblies/Unity.Animation.Rigging.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.VisualStudio.Editor">
- <HintPath>F:/Conception/tp2/HorrorGame/Library/ScriptAssemblies/Unity.VisualStudio.Editor.dll</HintPath>
+ <HintPath>D:/HorrorGame/Library/ScriptAssemblies/Unity.VisualStudio.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Mathematics.Editor">
- <HintPath>F:/Conception/tp2/HorrorGame/Library/ScriptAssemblies/Unity.Mathematics.Editor.dll</HintPath>
+ <HintPath>D:/HorrorGame/Library/ScriptAssemblies/Unity.Mathematics.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro">
- <HintPath>F:/Conception/tp2/HorrorGame/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+ <HintPath>D:/HorrorGame/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
  </Reference>
  <Reference Include="Unity.PlasticSCM.Editor">
- <HintPath>F:/Conception/tp2/HorrorGame/Library/ScriptAssemblies/Unity.PlasticSCM.Editor.dll</HintPath>
+ <HintPath>D:/HorrorGame/Library/ScriptAssemblies/Unity.PlasticSCM.Editor.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.UI">
- <HintPath>F:/Conception/tp2/HorrorGame/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+ <HintPath>D:/HorrorGame/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine">
  <HintPath>C:/Program Files/Unity2019.4.29f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
@@ -294,7 +294,7 @@
  <HintPath>C:/Program Files/Unity2019.4.29f1/Editor/Data/Managed/UnityEditor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Burst.Unsafe">
- <HintPath>F:/Conception/tp2/HorrorGame/Library/PackageCache/com.unity.burst@1.1.1/Unity.Burst.Unsafe.dll</HintPath>
+ <HintPath>D:/HorrorGame/Library/PackageCache/com.unity.burst@1.1.1/Unity.Burst.Unsafe.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.iOS.Extensions.Xcode">
  <HintPath>C:/Program Files/Unity2019.4.29f1/Editor/Data/PlaybackEngines/AppleTVSupport/UnityEditor.iOS.Extensions.Xcode.dll</HintPath>

@@ -9,23 +9,24 @@ public class BossController : MonoBehaviour
     [SerializeField] private NavMeshAgent NavMesh;
     [SerializeField] private List<GameObject> PatrolPoint;
     private GameObject CurrentDest;
-    private float TimeIdle;
+    private int DestIndex = 0;
+    private const float TimeIdle = 2.0f;
 
     private void Start()
     {
-        CurrentDest = PatrolPoint[0];
+        CurrentDest = PatrolPoint[DestIndex];
         SetDest(CurrentDest.transform.position);
     }
 
     private void Update()
     {
-        
+        CheckIfAtDest();
     }
 
     private void CheckIfAtDest()
     {
         //distance
-        //if (transform.position - NavMesh.destination)
+
     }
 
 
@@ -36,12 +37,23 @@ public class BossController : MonoBehaviour
 
     private void AtDest()
     {
+        if (DestIndex == PatrolPoint.Count - 1)
+        {
+            DestIndex = 0;
+        }
+        else
+        {
+            DestIndex++;
+        }
         StartCoroutine(Stopping());
+
     }
 
     private IEnumerator Stopping()
     {
-        yield return new WaitForSeconds(2f);
+        yield return new WaitForSeconds(TimeIdle);
+        CurrentDest = PatrolPoint[DestIndex];
+        SetDest(CurrentDest.transform.position);
     }
 
 
